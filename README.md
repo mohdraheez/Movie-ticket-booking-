@@ -1,1 +1,2 @@
 # Movie-ticket-booking-
+The Java Movie Ticket Booking Application delivers an elevated cinema reservation experience. Developed using Java, this application empowers users to effortlessly reserve tickets for specific seats in their chosen theater. With an intuitive interface, the application showcases available showtimes for the selected theater, enabling users to select the most convenient time slots.
